@@ -97,3 +97,5 @@ This project is an educational demonstration, not a complete password-security a
 ## Learning Objectives
 
 This project demonstrates Python functions, string handling, conditional logic, input validation, automated testing, modular design, and fundamental password-security concepts.
+
+# PasswordStrengthChecker
