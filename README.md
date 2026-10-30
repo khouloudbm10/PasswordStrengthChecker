@@ -64,7 +64,6 @@ This project is developed during my internship at **DecodeLabs** as part of my p
 
 **Khouloud BM**
 
-- GitHub: [@khouloudbm10](https://github.com/khouloudbm10)
 
 ---
 
